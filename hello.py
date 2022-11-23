@@ -32,6 +32,7 @@ elif n % 2 == 0 and n >= 20 and n <= 100 :
 else:
            print("invalid number")
 
+# Why use for loop here 
 
 #################### 3rd challenge
 
