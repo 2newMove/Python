@@ -1,3 +1,4 @@
 # Python
+I have decided to collaborate with fellow learners in python to practice at this place
+put your related questions below if any
 
-its a python file I made to Practice what I learned by collaborating with fellow learners
